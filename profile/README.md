@@ -6,7 +6,9 @@
 
 [Neuroblox](neuroblox.ai) is a computational platform for designing and testing brain interventions before they reach the clinic. Build neural circuit models from modular components, simulate treatment effects across biological scales, and predict outcomes from molecular targets to clinical symptoms.
 
-This Github organization hosts our various codebases, primarily the [Neuroblox.jl](https://github.com/Neuroblox/Neuroblox.jl) repo.
+This Github organization hosts our various codebases, primarily the [Neuroblox.jl](https://neuroblox.ai/code) repo.
+
+A list of publications using Neuroblox, and links to the code behind those publications can be found at www.neuroblox.ai/pubs
 
 [docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
 [docs-dev-url]: https://neuroblox.github.io/NeurobloxDocsHost/dev
