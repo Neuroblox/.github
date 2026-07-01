@@ -4,7 +4,7 @@
 |:-------------------------------------------------------------------------------:|:------------------------------------------:|
 | [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14192732.svg)](https://doi.org/10.5281/zenodo.14192732)
 
-[Neuroblox](neuroblox.ai) is a computational platform for designing and testing brain interventions before they reach the clinic. Build neural circuit models from modular components, simulate treatment effects across biological scales, and predict outcomes from molecular targets to clinical symptoms.
+[Neuroblox](https://www.neuroblox.ai) is a computational platform for designing and testing brain interventions before they reach the clinic. Build neural circuit models from modular components, simulate treatment effects across biological scales, and predict outcomes from molecular targets to clinical symptoms.
 
 A list of publications using Neuroblox, and links to the code behind those publications can be found at www.neuroblox.ai/pubs
 
