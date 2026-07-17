@@ -1,6 +1,6 @@
 # Neuroblox
 
-We are happy to announce the Neuroblox GUI 0.9 beta release.  For GUI installation instructions, go to [Neuroblox.jl](https://github.com/Neuroblox.jl)
+We are happy to announce the Neuroblox GUI 0.9 beta release.  For GUI installation instructions, go to [Neuroblox.jl](https://github.com/Neuroblox/Neuroblox.jl)
 
 Access to the **Neuroblox programmatic interface** will be available in the 1.0 release.
 
