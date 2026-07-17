@@ -1,15 +1,29 @@
 # Neuroblox
 
-| **Documentation** | **Citation** |
-|:-------------------------------------------------------------------------------:|:------------------------------------------:|
-| [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14192732.svg)](https://doi.org/10.5281/zenodo.14192732)
+We are happy to announce the Neuroblox GUI 0.9 beta release.  For GUI installation instructions, go to [Neuroblox.jl](https://github.com/Neuroblox.jl)
 
-[Neuroblox](https://www.neuroblox.ai) is a computational platform for designing and testing brain interventions before they reach the clinic. Build neural circuit models from modular components, simulate treatment effects across biological scales, and predict outcomes from molecular targets to clinical symptoms.
+Access to the **Neuroblox programmatic interface** will be available in the 1.0 release.
 
-A list of publications using Neuroblox, and links to the code behind those publications can be found at www.neuroblox.ai/pubs
+[Neuroblox](https://neuroblox.ai) is a neuroCAD platform designed to accelerate biotech innovation and precision therapeutics for neuropsychiatric disorders and cognitive performance.  Optimize and derisk drugs, devices, and procedures in silico — before launching in patients.	
 
-[docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
-[docs-dev-url]: https://neuroblox.github.io/NeurobloxDocsHost/dev
+Start by loading prebuilt (experimentally validated) neural circuits that you can modify, or use experimental data to model your own neural circuits from modular components.  Next, simulate treatment effects across spatio-temporal scales and predict outcomes: from molecular targets to biomarkers to psychiatric/cognitive symptoms.  Neuroblox uses libraries of modular neurobiological building blocks ("blox") that snap together like components in a circuit diagram.
 
-[docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
-[docs-stable-url]: https://neuroblox.github.io/NeurobloxDocsHost/stable/
+### What Neuroblox can simulate:
+- Individual neurons: Hodgkin-Huxley, IF, QIF, LIF
+- Neuroreceptor dynamics: Glu AMPA, GABA-A, GABA-B, NMDA, D1, D2, 5-HT, TRPM4, nicotinic ACh ($\alpha$, $\beta$), muscarinic ACh
+- Neural mass models: Jansen-Rit, Wilson-Cowan, Next-Generation
+- Multiscale biomimetic neural circuits composed of neurons, synapses, micro-assemblies, and neural mass models
+
+### What you can do with Neuroblox:
+- Build circuits through an intuitive GUI or Neuroblox's neuroscience-specific programming language 
+- Simulate interventions (drugs, devices, sensory inputs, behavioral tasks) and track neurobehavioral effects across scales
+- Fit model parameters to your experimental data (electrophysiology, neuroimaging, behavioral)
+- Rigorously compare competing hypotheses with parallel testing of alternative circuit architectures and mechanisms
+
+Neuroblox models compile into high-performance numerical kernels, enabling practical exploration of large parameter spaces and the execution of optimization experiments that would be infeasible on other platforms.
+
+## Licensing
+
+Neuroblox is free for non-commercial and academic use. For full details of the license, see 
+the [Neuroblox EULA](https://github.com/Neuroblox/NeurobloxEULA). For commercial use, please contact
+[info@neuroblox.ai](mailto:info@neuroblox.ai).
