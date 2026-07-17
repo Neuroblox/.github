@@ -22,6 +22,8 @@ Start by loading prebuilt (experimentally validated) neural circuits that you ca
 
 Neuroblox models compile into high-performance numerical kernels, enabling practical exploration of large parameter spaces and the execution of optimization experiments that would be infeasible on other platforms.
 
+A list of publications using Neuroblox, and links to the code behind those publications, can be found at www.neuroblox.ai/pubs
+
 ## Licensing
 
 Neuroblox is free for non-commercial and academic use. For full details of the license, see 
