@@ -11,8 +11,6 @@ Access to the **Neuroblox programmatic interface** will be available in the 1.0 
 
 Start by loading prebuilt (experimentally validated) neural circuits that you can modify, or use experimental data to model your own neural circuits from modular components.  Next, simulate treatment effects across spatio-temporal scales and predict outcomes: from molecular targets to biomarkers to psychiatric/cognitive symptoms.  Neuroblox uses libraries of modular neurobiological building blocks ("blox") that snap together like components in a circuit diagram.
 
-https://github.com/user-attachments/assets/8440fade-344c-416a-8f77-369732c35cb7
-
 ### What Neuroblox can simulate:
 - Individual neurons: Hodgkin-Huxley, IF, QIF, LIF
 - Neuroreceptor dynamics: Glu AMPA, GABA-A, GABA-B, NMDA, D1, D2, 5-HT, TRPM4, nicotinic ACh ($\alpha$, $\beta$), muscarinic ACh
